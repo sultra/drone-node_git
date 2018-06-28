@@ -1,4 +1,4 @@
-# Drone-Maven
+# Drone node_git
 - 0.1.0
 
 基于node，带git的插件；提供执行脚本的入口参数
